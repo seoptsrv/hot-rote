@@ -1,0 +1,2 @@
+# hot-rote
+Hotseat Rotation
